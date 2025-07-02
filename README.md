@@ -46,6 +46,13 @@ In production:
 - The predict.py script loads the latest production version of the model
 - Ensures consistency between training and inference environments
 
+  ![Image](https://github.com/user-attachments/assets/15ba0030-0c82-4318-a5e6-078eaa3046c8)
+![Image](https://github.com/user-attachments/assets/4efc3578-b3f8-4374-b465-ae87d2a43ae1)
+![Image](https://github.com/user-attachments/assets/b5399dd9-f526-4eb2-b6e3-0e927633231d)
+![Image](https://github.com/user-attachments/assets/236d3521-01e3-4fbd-82dd-9d71a2057334)
+![Image](https://github.com/user-attachments/assets/67b78938-ab6c-4bdd-aff4-35dcfbba9a8a)
+![Image](https://github.com/user-attachments/assets/4d87036e-b564-4761-bb87-86936946827f)
+
 ---
 
 ## 🔍 Sample Output
